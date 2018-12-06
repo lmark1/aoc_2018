@@ -94,7 +94,7 @@ int day1_task2()
 			}
 		}
 
-		cout << "Finished reading lines" << endl;
+		//cout << "Finished reading lines" << endl;
 
 		// Go to the beginning
 		dataFile.clear();
